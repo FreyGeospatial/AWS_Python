@@ -78,8 +78,9 @@ All(?) AWS services are accessible via `client` but not all are accessible with 
 https://stackoverflow.com/questions/42809096/difference-in-boto3-between-resource-client-and-session
 
 
+## moto Overview:
 
-
+Nothing here yet. The moto library mocks out AWS services for testing.
 
 
 # Tutorials used in this repo:
